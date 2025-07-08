@@ -16,7 +16,7 @@ uid: 83d9965f-8527-417b-ae14-84a2b15f057e
 video_files:
   archive_url: ''
   video_captions_file: ''
-  video_thumbnail_file: google.com
+  video_thumbnail_file: https://img.youtube.com/vi/TxIwM_2-SM0/default.jpg
   video_transcript_file: ''
 video_metadata:
   source: youtube
